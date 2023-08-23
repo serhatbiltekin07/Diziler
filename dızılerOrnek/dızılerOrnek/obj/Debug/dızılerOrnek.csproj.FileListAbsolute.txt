@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\dızılerOrnek\dızılerOrnek\obj\Debug\dızılerOrnek.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\dızılerOrnek\dızılerOrnek\obj\Debug\dızılerOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\dızılerOrnek\dızılerOrnek\obj\Debug\dızılerOrnek.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dızılerOrnek\dızılerOrnek\bin\Debug\dızılerOrnek.exe.config
+C:\Users\user\source\repos\dızılerOrnek\dızılerOrnek\bin\Debug\dızılerOrnek.exe
+C:\Users\user\source\repos\dızılerOrnek\dızılerOrnek\bin\Debug\dızılerOrnek.pdb
+C:\Users\user\source\repos\dızılerOrnek\dızılerOrnek\obj\Debug\dızılerOrnek.exe
+C:\Users\user\source\repos\dızılerOrnek\dızılerOrnek\obj\Debug\dızılerOrnek.pdb
